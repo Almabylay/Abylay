@@ -1,1 +1,3 @@
 # Abylay
+
+print('hello world')
